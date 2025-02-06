@@ -36,3 +36,11 @@ toml_sample
 # Debug files
 *.dSYM/
 *.su
+
+# Build system files
+*.make
+Makefile
+build
+
+# Editor files
+**.swp
